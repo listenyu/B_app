@@ -91,6 +91,8 @@
 }
 .image {
 }
+.snapshot {
+}
 ._文本段落1 {
   text-align:left;
 }
@@ -113,4 +115,6 @@
 }
 ._图片2 {
   color:#000000;
+}
+.connector {
 }
