@@ -445,7 +445,7 @@
   left:0px;
   top:0px;
   width:170px;
-  height:666px;
+  height:665px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -459,12 +459,12 @@
   left:1px;
   top:1px;
   width:170px;
-  height:666px;
+  height:665px;
 }
 #u2015 {
   position:absolute;
   left:2px;
-  top:325px;
+  top:324px;
   width:166px;
   visibility:hidden;
   word-wrap:break-word;
@@ -1691,8 +1691,8 @@
 }
 #u2101 {
   position:absolute;
-  left:13px;
-  top:710px;
+  left:442px;
+  top:343px;
   width:40px;
   height:53px;
 }
